@@ -1,0 +1,19 @@
+current directory: /Users/gps/go/src/github.com/gepser/toy-rails-app/blog/vendor/bundle/ruby/2.5.0/gems/byebug-10.0.2/ext/byebug
+/Users/gps/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20180920-34841-1kav23y.rb extconf.rb
+creating Makefile
+
+current directory: /Users/gps/go/src/github.com/gepser/toy-rails-app/blog/vendor/bundle/ruby/2.5.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/gps/go/src/github.com/gepser/toy-rails-app/blog/vendor/bundle/ruby/2.5.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/gps/go/src/github.com/gepser/toy-rails-app/blog/vendor/bundle/ruby/2.5.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20180920-34841-hi57lf/byebug
